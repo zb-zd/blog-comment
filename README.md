@@ -6,17 +6,17 @@ modules:
   - MdContent
   - Footer
 bannerBrand:
-  bgImage: '/bg.svg'
-  title: 左的个人站
-  description: 记录日常中的点点滴滴
-  tagline: 记录日常中的点点滴滴
-  # bgImageStyle: 
-    # height: 700px
-  buttons:
-    - { text: Guide, link: '/docs/guide/introduce' }
-    - { text: Default Style, link: '/docs/style-default-api/introduce', type: 'plain' }
-  socialLinks:
-    - { icon: 'LogoGithub', link: 'https://github.com/vuepress-reco/vuepress-theme-reco' }
+  # bgImage: '/bg.svg'
+  # title: 左的个人站
+  # description: 记录日常中的点点滴滴
+  # tagline: 记录日常中的点点滴滴
+  bgImageStyle: 
+    height: 70px
+  # buttons:
+  #   - { text: Guide, link: '/docs/guide/introduce' }
+  #   - { text: Default Style, link: '/docs/style-default-api/introduce', type: 'plain' }
+  # socialLinks:
+  #   - { icon: 'LogoGithub', link: 'https://github.com/vuepress-reco/vuepress-theme-reco' }
 blog: # 博客模块配置
   # socialLinks: # 社交地址
   #   - { icon: 'LogoGithub', link: 'https://github.com/recoluan' }

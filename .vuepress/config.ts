@@ -7,7 +7,7 @@ export default defineUserConfig({
   description: "只是在玩",
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
-    logo: "/logo.png",
+    logo: "/head.JPG",
     author: "日渐肥胖的左",
     authorAvatar: "/head.JPG",
     docsRepo: "",

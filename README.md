@@ -7,11 +7,11 @@ modules:
   - Footer
 bannerBrand:
   bgImage: '/bg.svg'
-  title: 欢迎光临 | 我的世界
+  title: 欢迎来到 我的世界
   # description: 记录日常中的点点滴滴
   # tagline: 记录日常中的点点滴滴
   bgImageStyle: 
-    height: 400px
+    height: 80vh
   # buttons:
   #   - { text: Guide, link: '/docs/guide/introduce' }
   #   - { text: Default Style, link: '/docs/style-default-api/introduce', type: 'plain' }

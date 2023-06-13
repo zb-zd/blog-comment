@@ -43,9 +43,14 @@ export default defineUserConfig({
           这是作者发泄情绪的地方`,
           style: "font-size: 12px;",
         },
-        // {
-        //   type: "hr",
-        // },
+        {
+          type: "hr",
+        },
+        {
+          type: "text",
+          content: `做好十件事都抵不过没做好一件事！`,
+          style: "font-size: 12px;",
+        },
       ],
     },
     // valineConfig: {

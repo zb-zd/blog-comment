@@ -39,18 +39,17 @@ export default defineUserConfig({
       body: [
         {
           type: "text",
-          content: `慎入！！！
-          这是作者发泄情绪的地方`,
+          content: `QQ：2712104231`,
           style: "font-size: 12px;",
         },
         {
           type: "hr",
         },
-        {
-          type: "text",
-          content: `做好十件事都抵不过没做好一件事！`,
-          style: "font-size: 12px;",
-        },
+        // {
+        //   type: "text",
+        //   content: `做好十件事都抵不过没做好一件事！`,
+        //   style: "font-size: 12px;",
+        // },
       ],
     },
     // valineConfig: {

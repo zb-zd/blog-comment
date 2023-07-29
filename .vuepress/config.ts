@@ -35,23 +35,23 @@ export default defineUserConfig({
       //   ],
       // },
     ],
-    bulletin: {
-      body: [
-        {
-          type: "text",
-          content: `QQ：2712104231`,
-          style: "font-size: 12px;",
-        },
-        {
-          type: "hr",
-        },
-        // {
-        //   type: "text",
-        //   content: `做好十件事都抵不过没做好一件事！`,
-        //   style: "font-size: 12px;",
-        // },
-      ],
-    },
+    // bulletin: {
+    //   body: [
+    //     {
+    //       type: "text",
+    //       content: `QQ：2712104231`,
+    //       style: "font-size: 12px;",
+    //     },
+    //     {
+    //       type: "hr",
+    //     },
+    //     // {
+    //     //   type: "text",
+    //     //   content: `做好十件事都抵不过没做好一件事！`,
+    //     //   style: "font-size: 12px;",
+    //     // },
+    //   ],
+    // },
     // valineConfig: {
     //   appId: 'xxx',
     //   appKey: 'xxx',
